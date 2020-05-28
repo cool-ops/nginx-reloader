@@ -1,7 +1,7 @@
 # nginx-reloader
 
 用于监听Nginx配置变化，自动reload Nginx  
-
+可以监听指定的目录及其子目录的变化  
 示例：
 ```yaml
 ---
